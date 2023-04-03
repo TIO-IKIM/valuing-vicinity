@@ -1,0 +1,6 @@
+{
+    "none": -1,
+    "background": 0,
+    "tumor": 1,
+    "healthy": 2
+}

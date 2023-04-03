@@ -1,0 +1,21 @@
+{
+    "none": -1,
+    "background":0,
+    "cyst": 1,
+    "tumor_bleeding": 2, 
+    "tumor_necrosis": 3, 
+    "papillom": 4, 
+    "lymph node": 5, 
+    "diffuse tumor growth in soft tissue": 6, 
+    "cortex_atrophy": 7, 
+    "tumor_vital": 8, 
+    "extrarenal": 9, 
+    "cortex": 10, 
+    "tissue": 11, 
+    "tumor": 12, 
+    "angioinvasion": 13, 
+    "medullary spindel cell nodule": 14, 
+    "mark": 15, 
+    "tumor_regression": 16, 
+    "capsule": 17
+}

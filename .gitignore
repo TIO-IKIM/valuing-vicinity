@@ -1,0 +1,4 @@
+/logdir*
+*.pyc
+/scripts
+*.log
