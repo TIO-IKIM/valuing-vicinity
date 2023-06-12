@@ -169,5 +169,5 @@ combine-weight: 0.8
 
 
 
-[vv_paper_link]: https://arxiv.org/abs/2210.11822
+[vv_paper_link]: https://www.sciencedirect.com/science/article/pii/S0895611123000563
 [pytorch_seg_model]: https://github.com/qubvel/segmentation_models.pytorch
